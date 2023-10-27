@@ -4,6 +4,5 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Улучшение процесса обогащения золота](https://github.com/yarosalena/Portfolio/tree/main////) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/yarosalena/Portfolio/tree/main////)) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Анализ текстов]((https://github.com/yarosalena/Portfolio/tree/main////)) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 1.   | [Прогнозирование оттока телеком компании](https://github.com/yarosalena/Portfolio/tree/main////) | Прогнозирование оттока телеком компании| python, pandas, numpy, scipy, sklearn, matplotlib       |
+
